@@ -1,0 +1,48 @@
+.a{
+	color: grey;
+	line-height: 2em;
+	font-size: 12px;
+	font-family: Arial;
+	
+}
+a{
+	color: #727272;
+
+}
+p a:link{
+	text-decoration: none;
+}
+p a:hover{
+	text-decoration: underline;
+	color: grey;
+}
+.b{
+	color: #b9f605;
+	font-weight: bolder;
+	font-size: 14px;
+}
+.c{
+	color: white;
+	font-size: 14px;
+
+}
+
+ul li a:link{
+	text-decoration: none;
+}
+ul li a:hover{
+	text-decoration: underline;
+	color: grey;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:none;
+	color: #b9f605;
+}
+.d{
+	color: #fdb306;
+	font-size: 14px;
+}
+

@@ -1,0 +1,25 @@
+a{
+	color: grey;
+	font-size: 12px;
+	font-style: Arial;
+	line-height: 2em;
+	
+}
+ul li {
+	color: grey;
+	font-size: 12px;
+	font-style: Arial;
+	line-height: 2em;
+}
+.m{
+	font-size: 14px;
+
+}
+#aaa{
+	font-size: 14px;
+
+}
+#aaa:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
