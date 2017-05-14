@@ -1,0 +1,42 @@
+
+.menu{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	margin-left: 100px;
+}
+
+#titlediv{
+	height: 60px;
+	background-image: url(../image/header.png);
+	background-repeat: no-repeat;
+}
+ul{
+	list-style-type:none;
+	height: 480px;
+}
+.aaa{
+
+	background-image: url(../image/baibiaoti.png);
+	background-repeat: no-repeat;
+	height: 55px;
+	text-indent:2em;
+}
+.bbb{
+	background-image: url(../image/lvbiaoti.png);
+	background-repeat: no-repeat;
+	height: 55px;
+	text-indent:2em;
+}
+ul .bbb a{
+color: white;	
+}
+a:link{
+	text-decoration: none;
+	color: grey;
+}
+ul{
+	padding-left: 30px;
+}
+ul li{
+	padding-left: 18px;
+}
