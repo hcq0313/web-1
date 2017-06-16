@@ -1,0 +1,321 @@
+.beijing{
+	background-image: url(images/bodybg.gif);
+	background-repeat: repeat-x;
+}
+.zhengti{
+	width: 1000px;
+}
+/*第一部分：banner、导航、搜索框*/
+.logo{
+	background-image: url(images/bg.gif);
+	height: 165px;
+	width: 1500px;
+}
+.logo2{
+	padding-left: 150px;
+	padding-top: 32px;
+}
+.daohang .bb{
+	list-style: none;
+
+	color: white;
+	
+
+	padding-left: 10px;
+
+}
+.aa{
+	list-style: none;
+
+	color: yellow;
+	padding-left: 10px;
+	
+
+}
+.daohang{
+	background-image: url(images/nav.jpg);
+	padding-left: 140px;
+	width: 1360px;
+	height: 35px;
+	padding-top: 10px;
+}
+
+.dohuang .aa{
+
+}
+.daohang input[type='button']{
+	background-image: url(images/sou6.png);
+	width: 44px;
+	height: 22px;
+	float: right;
+margin-right: 220px;
+}
+.daohang input{
+	width:130px;
+	height: 17px;
+	float: right;
+
+}
+/*曲径通幽、培训动态、站内公告*/
+.pxdt{
+	float: left;
+	width: 500px;
+	margin-left: 10px;
+
+}
+.news{
+	background-image: url(images/news_bg.png);
+	background-repeat: no-repeat;
+	height: 250px;
+	margin-top: 18px;
+	margin-left: 160px;
+	width: 350px;
+}
+.qu{
+	width: 300px;
+	height: 200px;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+.zi{
+
+	color: #522a06;
+	padding-left: 50px;
+}
+.d2{
+	height: 250px;
+
+}
+.news{
+	float: left;
+}
+.clj{
+	margin-left: -25px;
+}
+.clj a{
+	
+
+}
+.aaa{
+	height: 30px;
+
+	color: #522a06;
+	font-size: 14px;
+
+}
+.bbb{
+	height: 31px;
+	margin-top: 3px;
+
+	color: #522a06;
+	padding-top: 2px;
+	font-size: 14px;
+	
+}
+.img{
+	height: 45px;
+	float: left;
+	width: 370px;
+	
+}
+.img img{
+	padding-top: 15px;
+}
+.img2{
+	padding-top: 5px;
+	margin-bottom: -5px;
+	padding-left: 5px;
+
+
+}
+
+.tu2{
+	background-image: url(images/board_bg2.png);
+	background-repeat: no-repeat;
+	width: 360px;
+	float: left;
+
+	color: #522a06;
+	height: 270px;
+
+
+}
+.ziti{
+	color: #522a06;
+	font-size: 13px;
+}
+.tu2 a{
+	
+	font-size: 13px;
+}
+.ccc{
+	margin-left: -14px;
+	margin-top: 1px;
+	height: 27px;
+}
+.tu{
+	padding-top:15px;
+	margin-left: 30px;
+}
+.tu2{
+	margin-top: 7px;
+	margin-left: -95px;
+}
+/*底部左边部分，学术争鸣，书坛新闻，燕赵风采*/
+
+.div411{
+	
+	float: left;
+	margin-left: 155px;
+	margin-top: -60px;
+
+}
+.div412{
+	
+	float: left;
+	margin-top: -45px;
+	margin-left: 450px;
+}
+.div413{
+	margin-left: 150px;
+
+	color: #522a06;
+
+	width: 420px;
+	padding-top:58px;
+
+
+}
+
+.aaa{
+	
+
+	color: #522a06;
+	font-size: 13px;
+}
+.ddd{
+	
+	color: #522a06;
+	font-size: 13px;
+
+
+}.div42{
+	margin-left: 520px;
+	margin-top: -200px;
+
+	width: 460px;
+	color: #522a06;
+	float: left;
+	height: 190px;
+
+}
+.div4210{
+	
+	margin-top: -45px;
+	
+}
+.div422{
+
+	padding-left: 350px;
+	margin-top: -40px;
+	float: left;
+}
+.div423{
+	margin-top: -15px;
+	float: left;
+}
+/*燕赵风采*/
+.yzfc{
+	margin-left: -375px;
+
+	
+}
+.div432{
+	margin-top: -55px;
+	margin-left: 352px;
+}
+.tu4{
+	border: 1px #B0B0B0 solid;
+	width: 690px;
+	background-color: #FAF0E6;
+	margin-left: -340px;
+	margin-top: 20PX;
+	height: 170px;
+	float: left;
+	
+}
+.divtu{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+
+/*底部左右边部分，名家展厅*/
+.mjzt{
+	margin-left: 1040px;
+	margin-top:-210px;
+	float: left;
+}
+.div51{
+	background-image: url(images/show_bg.png);
+	background-repeat: no-repeat;
+	margin-top: -160px;
+	margin-left: 950px;
+	height: 380px;
+
+	width: 300px;
+}
+.mingren{
+	margin-left: -3px;
+	margin-top: 22px;
+	margin-bottom: 10px;
+	}
+.mj{
+	width: 220px;
+	font-size: 12px;
+	
+	color: #522a06;
+	line-height: 22px;
+	margin-left: 28px;
+}
+.view{
+	margin-left: 1160px;
+	margin-top: -70px;
+}
+.zuihou{
+	font-weight: bold;
+	color: #522a06;
+	
+	font-size: 12px;
+	
+
+}
+.clj2{
+	margin-top: 55px;
+	margin-left: 500px;
+}
+.line{
+	margin-top: 10px;
+	margin-left: 430px;
+
+}
+.zimu1{
+	margin-top: 10px;
+	margin-left: 520px;
+	color: #522a06;
+	font-size: 12px;
+
+}
+.zimu2{
+	margin-top: 10px;
+	margin-left: 550px;
+	color: #522a06;
+	font-size: 12px;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
