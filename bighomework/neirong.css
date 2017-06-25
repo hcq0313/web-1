@@ -1,0 +1,96 @@
+
+.neirong3{
+	width: 1000px;
+	height:900px;
+	margin-left: 70px;
+
+	
+	
+}
+.neirong2{
+	background-color: white;
+	padding-top: 25px;
+	height:1080px;
+}
+.neirong{
+	border: 1px #B0B0B0 solid;
+	width: 1160px;
+	height: 1075px;
+	margin-left: 20px;
+	margin-top: -10px;
+	
+}
+.zhushi5{
+	font-size: 13px;
+	color: grey;
+}
+.znr{
+	
+	line-height: 27px;
+}
+.tu1{
+	margin-top: 35px;
+	margin-left: -20px;
+}
+.tu2{
+	float: right;
+	margin-right: -10px;
+	margin-top: -705px;
+}
+.tu3{
+	float: right;
+	margin-right: -15px;
+	margin-top: -365px;
+}
+.ma1{
+	margin-right: 180px;
+	margin-top: -90px;
+
+}
+.ma2{
+	
+	margin-right: 330px;
+}
+.ma3{
+	margin-right: 480px;
+}
+.weixin{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -80px;
+}
+.wangzhan{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -230px;
+}
+.shouji{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -380px;
+}
+.tutu{
+	padding-left: 7px;
+	padding-top: 7px;
+}
+.zhu{
+	font-size: 12px;
+	color: grey;
+	line-height: 22px;
+	margin-left:185px;
+}
+.jieshu{
+	margin-left:185px;
+}
+.erwm{
+	width: 100px;
+	height: 100px;
+	float: right;
+
+}

@@ -1,0 +1,89 @@
+
+.beijing{
+	background-image: url(images/body.png);
+	background-repeat: repeat-x;
+}
+.wrap{
+	width: 1200px;
+
+	margin:auto;
+}
+.xiaoxun{
+	width: 500px;
+	height: 49px;
+	font-size: 40px;
+	font-family: '隶书';
+	color: purple;
+	float: right;
+	margin-right: 100px;
+	margin-top: 40px;
+
+}
+.logo{
+	width: 500px;
+	height: 90px;
+
+	margin:auto;
+	float: left;
+}
+.daohang{
+	width: 850px;
+	background-color:#4169E1;
+	height: 40px;
+	float: left;
+	padding-top: 16px;
+	padding-left: 30px;
+
+}
+.sousuo input[type='button']{
+	background-image: url(images/sou.png);
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-top: 15px;
+	margin-right: 45px;
+
+}
+.sousuo input[type='text']{
+
+	width: 200px;
+	height: 25px;
+	float: right;
+	margin-top: 14px;
+
+}
+
+.daohang a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+
+}
+
+.sousuo{
+	width: 320px;
+	height: 56px;
+	float: left;
+	background-color: #4169E1;
+
+
+}
+a{
+	color: grey;
+	font-size: 15px;
+	line-height: 30px;
+	text-decoration: none;
+
+}
+.clj{
+	color: grey;
+}
+a:hover{
+	color: orange;
+}
+.denglu a{
+	margin-top: 60px;
+	margin-right: -550px;
+	float: right;
+	color: blue;
+}

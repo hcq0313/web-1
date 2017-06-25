@@ -1,0 +1,82 @@
+
+.liebiao2{
+	color: grey;
+	border: 1px #B0B0B0 solid;
+	width:580px;
+	height:300px;
+	margin-left: 590px;
+
+
+}
+.liebiao1{
+	width: 1180px;
+	height:310px;
+	background-color: white;
+	margin-left: 160px;
+}
+.liebiao3{
+	color: grey;
+	border: 1px #B0B0B0 solid;
+	width: 580px;
+	height:300px;
+	margin-left: 5px;
+	margin-top: -300px;
+
+
+}
+
+
+/*dixia
+*/
+.ma1{
+	margin-right: 180px;
+	margin-top: -90px;
+
+}
+.ma2{
+	
+	margin-right: 330px;
+}
+.ma3{
+	margin-right: 480px;
+}
+.weixin{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -80px;
+}
+.wangzhan{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -230px;
+}
+.shouji{
+	font-size: 13px;
+	color: grey;
+	float: right;
+	margin-top: 100px;
+	margin-right: -380px;
+}
+.tutu{
+	padding-left: 7px;
+	padding-top: 7px;
+}
+.zhu{
+	font-size: 12px;
+	color: grey;
+	line-height: 22px;
+	margin-left:185px;
+}
+.jieshu{
+	margin-left:185px;
+}
+.erwm{
+	width: 100px;
+	height: 100px;
+	float: right;
+
+}
